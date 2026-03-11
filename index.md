@@ -1,5 +1,5 @@
 ---
-title: home
+title: idea
 slug: index
 namespace: home
 hero:
