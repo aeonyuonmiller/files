@@ -1,0 +1,33 @@
+{
+  "slug": "lab",
+  "meta": {
+    "title": "Lab",
+    "description": ""
+  },
+  "bricks": [
+    {
+      "id": "98796d54-c44c-4b87-a3ce-a2fc1fee3576",
+      "type": "CaptionBlock",
+      "props": {
+        "tag": "EXPERIMENTS",
+        "title": "Lab",
+        "text": "Between silence and noise",
+        "buttonLabel": "View",
+        "buttonHref": "#",
+        "_paddingTop": 120
+      }
+    },
+    {
+      "id": "0ac249b6-2423-4b5d-b0b9-79c903ecf003",
+      "type": "ImageBrick",
+      "props": {
+        "src": "/aym-logo.svg",
+        "alt": "imago",
+        "caption": "",
+        "objectFit": "cover",
+        "maxHeight": 1200,
+        "borderRadius": 0
+      }
+    }
+  ]
+}
