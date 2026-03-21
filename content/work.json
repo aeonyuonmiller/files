@@ -9,54 +9,6 @@
       "bodyAlign": "middle"
     },
     {
-      "type": "reel",
-      "id": "s3",
-      "images": [
-        {
-          "src": "./images/aurora.png",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 1
-        },
-        {
-          "src": "./images/image.jpeg",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 1
-        },
-        {
-          "src": "./images/aurora.png",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 2
-        },
-        {
-          "src": "./images/image.jpeg",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 3
-        },
-        {
-          "src": "./images/aurora.png",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 1
-        },
-        {
-          "src": "./images/image.jpeg",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 1
-        },
-        {
-          "src": "./images/aurora.png",
-          "alt": "Aurora Borealis",
-          "caption": "Aurora Borealis",
-          "span": 2
-        }
-      ]
-    },
-    {
       "type": "slider",
       "id": "s2",
       "slides": [
@@ -87,34 +39,115 @@
       ]
     },
     {
-      "type": "caption",
-      "id": "sgpayf6",
-      "label": "Sweet + Easy",
-      "title": "Edit your text inline",
-      "body": "The experience is completely seamless. Like this is how managing the content of a website should feel like – Clear and simple.",
-      "buttonText": "Read more",
-      "buttonHref": "#"
-    },
-    {
       "type": "reel",
-      "id": "s7qhx9c",
+      "id": "s3",
       "images": [
         {
           "src": "./images/aurora.png",
-          "alt": "motive",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
           "span": 1
         },
         {
-          "src": "./images/aurora.png",
-          "alt": "motive",
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
           "span": 2
         },
         {
           "src": "./images/aurora.png",
-          "alt": "motive",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 2
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "image",
           "span": 1
         }
       ]
+    },
+    {
+      "type": "slider",
+      "id": "s4",
+      "slides": [
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project One",
+          "title": "Project One",
+          "url": "/project-1.html"
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Project Two",
+          "title": "Project Two",
+          "url": "/project-2.html"
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project Three",
+          "title": "Project Three",
+          "url": "/project-3.html"
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project Four",
+          "title": "Project Four",
+          "url": "/project-3.html"
+        }
+      ]
+    },
+    {
+      "type": "caption",
+      "id": "s4kd1qr",
+      "label": "Missy?",
+      "title": "Wörkin",
+      "body": "I need a glas of wa-ter.",
+      "buttonText": "Read more",
+      "buttonHref": "google.com"
     }
   ]
 }
