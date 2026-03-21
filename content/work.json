@@ -147,7 +147,7 @@
       "title": "Wörkin",
       "body": "I need a glas of wa-ter.",
       "buttonText": "Read more",
-      "buttonHref": "google.com"
+      "buttonHref": "#google.com"
     }
   ]
 }
