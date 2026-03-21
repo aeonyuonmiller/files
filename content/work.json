@@ -1,0 +1,120 @@
+{
+  "sections": [
+    {
+      "type": "intro",
+      "id": "s1",
+      "hero": "Work",
+      "heroAlign": "center",
+      "body": "Als Product Designer mit mehrjähriger Erfahrung im Mobile-Umfeld habe ich in den Jahren digitale Produkte für Millionen.",
+      "bodyAlign": "middle"
+    },
+    {
+      "type": "reel",
+      "id": "s3",
+      "images": [
+        {
+          "src": "./images/aurora.png",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 2
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 3
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Aurora Borealis",
+          "caption": "Aurora Borealis",
+          "span": 2
+        }
+      ]
+    },
+    {
+      "type": "slider",
+      "id": "s2",
+      "slides": [
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project One",
+          "title": "Project One",
+          "url": "/project-1.html"
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "Project Two",
+          "title": "Project Two",
+          "url": "/project-2.html"
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project Three",
+          "title": "Project Three",
+          "url": "/project-3.html"
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "Project Four",
+          "title": "Project Four",
+          "url": "/project-3.html"
+        }
+      ]
+    },
+    {
+      "type": "caption",
+      "id": "sgpayf6",
+      "label": "Sweet + Easy",
+      "title": "Edit your text inline",
+      "body": "The experience is completely seamless. Like this is how managing the content of a website should feel like – Clear and simple.",
+      "buttonText": "Read more",
+      "buttonHref": "#"
+    },
+    {
+      "type": "reel",
+      "id": "s7qhx9c",
+      "images": [
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 2
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 1
+        }
+      ]
+    }
+  ]
+}
