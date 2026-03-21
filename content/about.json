@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "type": "intro",
+      "id": "s1",
+      "hero": "AndreasY. Müller",
+      "heroAlign": "right",
+      "body": "Seitdem ich 10 Jahre alt bin interessiere ich mich bewusst für digitale Oberflächen. Ich hatte damals versucht mit Microsoft Paint eine Skin für den Winamp Player zu pixeln. Natürlich scheiterte ich kläglich daran einen Verlauf zu pixeln und die richtigen Farbabstufungen zu wählen, um einen ebenmäßigen Verlauf zu erzielen. Ich wollte die Plastizität der Knöpfe glänzend heraus arbeiten.Kurz danach fand ich heraus das es andere Programme gibt, nämlich Photoshop. Mein Bruder hatte eine CD-Rom mit der Photoshop 3 auf dem Familien-Computer installiert.",
+      "bodyAlign": ""
+    },
+    {
+      "type": "reel",
+      "id": "s2",
+      "images": [
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "motive",
+          "span": 2
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 3
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "motive",
+          "span": 1
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 1
+        }
+      ]
+    },
+    {
+      "type": "reel",
+      "id": "s3",
+      "images": [
+        {
+          "src": "./images/image.jpeg",
+          "alt": "motive",
+          "span": 3
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "motive",
+          "span": 2
+        },
+        {
+          "src": "./images/aurora.png",
+          "alt": "motive",
+          "span": 1
+        },
+        {
+          "src": "./images/image.jpeg",
+          "alt": "motive",
+          "span": 2
+        }
+      ]
+    },
+    {
+      "type": "caption",
+      "id": "s4",
+      "label": "Intro",
+      "title": "My dream island",
+      "body": "Als Product Designer mit mehrjähriger Erfahrung im Mobile-Umfeld habe ich in den vergangenen Jahren digitale Produkte für Millionen von Nutzer:innen.",
+      "buttonText": "Read more",
+      "buttonHref": "/imprint"
+    }
+  ]
+}
